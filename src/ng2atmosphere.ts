@@ -2,7 +2,7 @@
 
 import {Injectable} from 'angular2/core';
 import * as Rx from 'rxjs';
-import * as Atmosphere from 'atmosphere.js';
+import 'atmosphere.js';
 import {Subject} from 'rxjs/Subject';
 
 @Injectable()
